@@ -1,2 +1,2 @@
 # Recommender-Systems
-Article Recommender System
+Article/News Recommender System using Content Based Filtering method.
